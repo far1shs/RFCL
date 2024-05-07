@@ -1,5 +1,5 @@
-# RMCL
+# RFCL
 
-RMCL ÊÇÒ»¸öÄ³Ö°¸ßÉúÖÆ×÷µÄÎÒµÄÊÀ½çÆô¶¯Æ÷, ÃüÃûÈ«ÊÇÎ¢Èí·­ÒëµÄ, Ó¦¸ÃÍ¦×¼°É?
-Ö÷Ò³: [RMCL¹ÙÍø]("https://rfcl.14a.icu")
-ºËĞÄ: [Minecraft Launch]("https://github.com/Blessing-Studio/MinecraftLaunch") °Ë¸Â×öµÄºËĞÄ
+RMCL æ˜¯ä¸€ä¸ªæŸèŒé«˜ç”Ÿåˆ¶ä½œçš„æˆ‘çš„ä¸–ç•Œå¯åŠ¨å™¨, å‘½åå…¨æ˜¯å¾®è½¯ç¿»è¯‘çš„, åº”è¯¥æŒºå‡†å§?
+ä¸»é¡µ: [RFCLå®˜ç½‘]("https://rfcl.14a.icu")
+æ ¸å¿ƒ: [Minecraft Launch]("https://github.com/Blessing-Studio/MinecraftLaunch") å…«å˜åšçš„æ ¸å¿ƒ
